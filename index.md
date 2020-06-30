@@ -6,3 +6,7 @@ Huckleberry Finn ist eine von dem amerikanischen Schriftsteller Mark Twain erfun
 * Great adventurer
 * Loves hunting
 * Loves fishing
+
+> The truth about fishing is
+> that it is not easy and not hard.
+> It is just right.
