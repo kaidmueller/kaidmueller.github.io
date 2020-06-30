@@ -10,3 +10,5 @@ Huckleberry Finn ist eine von dem amerikanischen Schriftsteller Mark Twain erfun
 > The truth about fishing is
 > that it is not easy and not hard.
 > It is just right.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Huckleberry-finn-with-rabbit.jpg/220px-Huckleberry-finn-with-rabbit.jpg"/>
